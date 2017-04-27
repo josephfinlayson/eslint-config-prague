@@ -87,6 +87,6 @@ module.exports = {
             1,
             "never"
         ],
-        "no-underscore-dangle": [1, { "allow": ["_component"] }]
+        "no-underscore-dangle": [1, { "allow": ["_component", "__REDUX_DEVTOOLS_EXTENSION__"] }]
     }
 }
