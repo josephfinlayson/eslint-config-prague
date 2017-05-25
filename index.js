@@ -30,6 +30,7 @@ module.exports = {
         }
     },
     "rules": {
+        "curly": [1, "all"],
         "arrow-parens": [0, "as-needed"],
         "arrow-body-style": [0, "as-needed"],
         "comma-dangle": [1, "never"],
